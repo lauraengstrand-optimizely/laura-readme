@@ -17,7 +17,7 @@ __DISCLAIMER:__ This document applies to me and only me; in no way should it be 
 - [Work-life balance/Schedule](#work-life-balance)
 
 ## About me 
-Joined Optimizely in July 2019. 
+I joined Optimizely in July 2019. 
 
 How did I become a manager? [The Five Stages of …](https://engineering.pandora.com/the-five-stages-of-becoming-a-software-engineering-manager-fb78eaf481c)
 
@@ -86,5 +86,6 @@ Your career is your responsibility. I am here to help you achieve your professio
 It is important to find a healthy balance between work and the rest of your life. 
 My goal is to be in the office by 9AM but if history is any guide , closer to 9:30.  I meander out by 5:30 most days. 
 I might Slack or email you things off hours, but unless the thing says URGENT, it can always wait until the next working day.
+
 As for your schedule: do what works for you. Try to maintain a somewhat consistent schedule from day to day.
 
