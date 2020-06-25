@@ -7,14 +7,14 @@ This document is NOT project plans or roadmap for MLP or Analytics .
 __DISCLAIMER:__ This document applies to me and only me; in no way should it be considered to apply to another manager or team. 
 
 <!-- TOC -->
-[About me](#about-me)
-[Meetings](#meetings)
-[Communication](#communication)
-[My role](#my-role)
-[My goal](#my-goal)
-[My expectation of you](#my-expectation-of-you)
-[Your development](#your-development)
-[Work-life balance/Schedule](#work-life-balance)
+- [About me](#about-me)
+- [Meetings](#meetings)
+- [Communication](#communication)
+- [My role](#my-role)
+- [My goal](#my-goal)
+- [My expectation of you](#my-expectation-of-you)
+- [Your development](#your-development)
+- [Work-life balance/Schedule](#work-life-balance)
 
 ## About me 
 Joined Optimizely in July 2019. 
@@ -30,7 +30,7 @@ __Favorite quote:__ Be nice to people; because what's stopping them from pluckin
 * Because I love to eat, I spend a lot of time working out in one form or another. 
 * I share a birthday with J.R.R Tolkien, Victor Borge and Maxene Andrews. 
 * I have lived in 3 time zones and visited 5 additional time zones ( 13 countries ). 
-* When the laws change, I will marry my cat - Miche LaVaughn. 
+* When the laws change, I will marry my cat - [Miche LaVaughn](https://www.instagram.com/miche.lavaughn/). 
 * Chocolate is my drug of choice. 
 
 ## Meetings 
@@ -51,14 +51,14 @@ Feel free to put a meeting on my calendar, do not feel like you need to ask firs
 - Anytime you do not feel comfortable talking to me about something, please go over my head ( or to a peer manager ). I will not be offended. 
 
 ## My role 
-I will not try to do your job ( well, I might try ). If I am questioning you it could be I am trying to gather context for my own edification OR I am trying to help you vet your ideas OR  I am trying to help you think outside the box
-You can always rubber duck debug with me ( even if I don't always understand ) 
-Hire and retain top talent ( like you ).
-Set clear context so you can be successful.
-I will give you feedback in a timely matter. 
-I will be as transparent and visible as possible.
-I am not your parent; I expect you to act like an adult.
-I work for you ( but obviously have a responsibility to my manager and the company ).  I have your back. 
+- I will not try to do your job ( well, I might try ). If I am questioning you it could be I am trying to gather context for my own edification OR I am trying to help you vet your ideas OR  I am trying to help you think outside the box
+- You can always [rubber duck debug](https://rubberduckdebugging.com/) with me ( even if I don't always understand ) 
+- Hire and retain top talent ( like you ).
+- Set clear context so you can be successful.
+- I will give you feedback in a timely matter. 
+- I will be as transparent and visible as possible.
+- I am not your parent; I expect you to act like an adult.
+- I work for you ( but obviously have a responsibility to my manager and the company ).  I have your back. 
 
 ## My goal 
 - Individually, and as a  team, you are highly functional. 
@@ -67,14 +67,14 @@ I work for you ( but obviously have a responsibility to my manager and the compa
 - We have a clear roadmap. 
 
 ## My expectation of you 
-Write quality code AND unit tests. Own your code. 
-Ask questions – be curious.
-Be prepared to explain decisions you have made, both to peer engineers and to me 
-Prioritize ( you own your own time, if you need help ask questions ) 
-Be willing to reflect on any mistakes; we will sometimes have learning reviews ( aka, post-mortem, retrospective ) which are NOT about blame. 
-Make sure you get everything you need ( requirements, design, QA, statisticians ) to execute all the way to production. Keep your JIRA tickets up to date ( status, comments and such )
-Show Grit – be willing to stick with a hard path
-You should be learning as you go 
+- Write quality code AND unit tests. Own your code. 
+- Ask questions – be curious.
+- Be prepared to explain decisions you have made, both to peer engineers and to me 
+- Prioritize ( you own your own time, if you need help ask questions ) 
+- Be willing to reflect on any mistakes; we will sometimes have learning reviews ( aka, post-mortem, retrospective ) which are NOT about blame. 
+- Make sure you get everything you need ( requirements, design, QA, statisticians ) to execute all the way to production. Keep your JIRA tickets up to date ( status, comments and such )
+- Show Grit – be willing to stick with a hard path
+- You should be learning as you go 
 
 ### Don't withhold feedback for me
 If you have feedback for me, please give it. Constructive feedback gives me insight into how I can improve.  Getting your feedback in a timely manner is also quite important. If something isn't going well, I prefer to make a change quickly rather than to have the problem festerIf you are not comfortable giving me this feedback in person, I encourage you to speak with someone above me in the management chain. 
