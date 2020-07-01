@@ -32,7 +32,8 @@ __Favorite quote:__ Be nice to people; because what's stopping them from pluckin
 * I have lived in 3 time zones and visited 5 additional time zones ( 13 countries ). 
 * When the laws change, I will marry my cat - [Miche LaVaughn](https://www.instagram.com/miche.lavaughn/). 
 * Chocolate is my drug of choice. 
-<!-- ![miche](/images/grafana.png) -->
+ 
+![difference_image](/images/Make a Difference.png)
 
 
 ## Meetings 
