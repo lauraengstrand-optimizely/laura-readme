@@ -6,6 +6,8 @@ This document is NOT project plans or roadmap for MLP or Analytics .
 
 __DISCLAIMER:__ This document applies to me and only me; in no way should it be considered to apply to another manager or team. 
 
+![difference_image](/images/MakeADifference.png)
+
 <!-- TOC -->
 - [About me](#about-me)
 - [Meetings](#meetings)
@@ -32,8 +34,6 @@ __Favorite quote:__ Be nice to people; because what's stopping them from pluckin
 * I have lived in 3 time zones and visited 5 additional time zones ( 13 countries ). 
 * When the laws change, I will marry my cat - [Miche LaVaughn](https://www.instagram.com/miche.lavaughn/). 
 * Chocolate is my drug of choice. 
- 
-![difference_image](/images/MakeADifference.png)
 
 
 ## Meetings 
