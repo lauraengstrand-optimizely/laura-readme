@@ -2,7 +2,7 @@
 
 __What is this?__
 This document is a work in progress. It is meant to help us work together better by setting expectations about what you can depend on from me as your coworker. I will update it on an as needed basis and would greatly appreciate your feedback. 
-This document is NOT project plans or roadmap for MLP or Analytics .
+This document is NOT project plans or roadmap for any team or individual.
 
 __DISCLAIMER:__ This document applies to me and only me; in no way should it be considered to apply to another manager or team. 
 
