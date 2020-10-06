@@ -35,8 +35,6 @@ __Favorite quote:__ Be nice to people; because what's stopping them from pluckin
 * When the laws change, I will marry my cat - [Miche LaVaughn](https://www.instagram.com/miche.lavaughn/). 
 * Chocolate is my drug of choice. 
 
-![miche_image](/images/MeAndMiche.jpg = 250x250)
-
 
 ## Meetings 
 We will have a 1:1 every week for 30 minutes no matter what ( unless one of us is on PTO ). These meetings are for you, come prepared. The intent of this meeting is to discuss topics of substance ( including what you did over the weekend ), not updates. If the meeting is over prior to 30 minutes there is no need to awkwardly fill the time or sit in silence. 
