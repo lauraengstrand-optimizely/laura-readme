@@ -35,7 +35,7 @@ __Favorite quote:__ Be nice to people; because what's stopping them from pluckin
 * When the laws change, I will marry my cat - [Miche LaVaughn](https://www.instagram.com/miche.lavaughn/). 
 * Chocolate is my drug of choice. 
 
-![miche_image](/images/Me and Miche.png.png)
+![miche_image](/images/MeAndMiche.png)
 
 
 ## Meetings 
